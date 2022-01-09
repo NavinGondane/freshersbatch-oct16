@@ -9,3 +9,4 @@ this is branching
 =======
 This is the working text and ready to go!!
 >>>>>>> css_assignments
+this is my text

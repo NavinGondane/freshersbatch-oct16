@@ -1,16 +1,11 @@
 <html>
-  <head>
-    <<title>My App</title>
-  </head>
-  <body>
-<<<<<<< HEAD
-    This is my App
-  </body>
-</html>>
-=======
-    This is my App and i like it!
-  </body>
-</html>>
-This is the second changes!
-<html>
->>>>>>> css_assignments
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">JavaScript can change HTML content.</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+
+</body>
+</html>
